@@ -7,5 +7,8 @@ const photoswipe = new PhotoSwipeLightbox({
   gallery: ".pswp-gallery",
   children: "a",
   pswpModule: PhotoSwipe,
+  initialZoomLevel: 'fit',
+  secondaryZoomLevel: 1,
+  maxZoomLevel: 2,
 });
 photoswipe.init();
