@@ -208,7 +208,7 @@ ul.task-list input[type="checkbox"] {
 }
 
 .profile.float-right {
-  margin-left: 1rem;
+  margin-left: 2.5rem;
 }
 
 .profile.float-left {
@@ -217,7 +217,7 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 40%;
 
     .address {
       p {
@@ -401,7 +401,7 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2.5rem;
 
     a {
       img {
@@ -1415,5 +1415,58 @@ figure.cover {
   /* mouse over link */
   a.cover-link:hover {
     color: #23212d !important;
+  }
+}
+
+
+.pswp-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  justify-content: center;
+  grid-auto-flow: dense;
+  gap: 2rem 1.25rem;
+  margin-bottom: 3rem;
+
+  a {
+    position: relative;
+    display: block;
+    border-radius: 6px;
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    
+    @for $i from 1 through 30 {
+        &:nth-child(#{$i}) {
+          $random-size-row: random(2);
+          $random-size-col: random(2);
+          grid-row: span $random-size-row;
+          grid-column: span $random-size-col;
+        }
+      }
+    video {
+      width: 100%;
+    }
+
+    img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 6px;
+      object-fit: contain;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+      transition: transform 0.3s ease;
+    }
+
+    &:hover {
+      img {
+        box-shadow: 0 6px 18px rgba(0, 0, 0, 0.6);
+      }
+    }
+  }
+
+  // Optional: If you're wrapping anchors with divs
+  >div {
+    a {
+      display: block;
+    }
   }
 }
