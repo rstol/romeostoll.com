@@ -1,6 +1,6 @@
 ---
 layout: book-shelf
-title: Book Summaries and Reviews
+title: Book Summaries
 permalink: /books/
 nav: true
 nav_order: 6
