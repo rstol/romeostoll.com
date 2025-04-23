@@ -33,7 +33,7 @@ projects:
 
 I’ve been a DJ, entrepreneur, and [backpacker](/gallery).
 
-I’m an [ETH MTEC student](/cv), [coder](/github), and explorer of different point of views.
+I’m an ETH MTEC student, [coder](/repositories), and explorer of different point of views.
 
 Swiss native, I live in Zürich.
 
