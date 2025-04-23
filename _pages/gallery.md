@@ -2,7 +2,7 @@
 layout: page
 title: Gallery
 permalink: /gallery/
-description: Travel pictures and videos 
+description: Travel pictures and videos
 nav: true
 nav_order: 5
 images:
@@ -12,6 +12,7 @@ toc:
 ---
 
 ## 🇪🇺 Europe 2022
+
 <div class="pswp-gallery" id="gallery--europe-2022">
    <a class="venobox" data-gall="gallery-europe" href="/assets/img/gallery/Europe2022/travel_europe_2022_ - 2.jpeg"><img src="/assets/img/gallery/Europe2022/travel_europe_2022_ - 2.jpeg"></a>
    <a class="venobox" data-gall="gallery-europe" href="/assets/img/gallery/Europe2022/travel_europe_2022_ - 3.jpeg"><img src="/assets/img/gallery/Europe2022/travel_europe_2022_ - 3.jpeg"></a>
@@ -52,8 +53,11 @@ toc:
 </div>
 
 ---
+
 <!-- India Gallery -->
+
 ## 🇮🇳 India 2022
+
 <div class="pswp-gallery" id="gallery--india-2022">
    <a class="venobox" href="/assets/img/gallery/India2022/travel_india_2022_ - 1.jpeg"
       >
@@ -174,8 +178,11 @@ toc:
 </div>
 
 ---
+
 <!-- Nepal Gallery -->
+
 ## 🇳🇵 Nepal 2022
+
 <div class="pswp-gallery" id="gallery--nepal-2022">
 <a class="venobox" data-gall="gallery01" href="/assets/img/gallery/Nepal2022/travel_nepal_2022_ - 1.jpeg"><img src="/assets/img/gallery/Nepal2022/travel_nepal_2022_ - 1.jpeg" alt="Nepal 2022 Image 1"></a>
   <a class="venobox" data-gall="gallery01" href="/assets/img/gallery/Nepal2022/travel_nepal_2022_ - 2.jpeg"><img src="/assets/img/gallery/Nepal2022/travel_nepal_2022_ - 2.jpeg" alt="Nepal 2022 Image 2"></a>
@@ -234,7 +241,9 @@ toc:
 </div>
 
 ---
+
 ## 🇱🇦 Thailand 2023
+
 <div class="pswp-gallery" id="gallery--thailand-2023">
 <a class="venobox" data-gall="gallery03" href="/assets/img/gallery/Thailand2023/travel_thailand_2023_ - 1.jpeg"><img src="/assets/img/gallery/Thailand2023/travel_thailand_2023_ - 1.jpeg" alt="Thailand 2023 Image 1"></a>
         <a class="venobox" data-gall="gallery03" href="/assets/img/gallery/Thailand2023/travel_thailand_2023_ - 2.jpeg"><img src="/assets/img/gallery/Thailand2023/travel_thailand_2023_ - 2.jpeg" alt="Thailand 2023 Image 2"></a>
@@ -246,7 +255,9 @@ toc:
 </div>
 
 ---
+
 ## 🇱🇦 Laos 2023
+
 <div class="pswp-gallery" id="gallery--laos-2023">
    <a class="venobox" data-gall="gallery05" href="/assets/img/gallery/Laos2023/travel_laos_2023_ - 1.jpeg"><img src="/assets/img/gallery/Laos2023/travel_laos_2023_ - 1.jpeg" alt="Laos 2023 Image 1"></a>
     <a class="venobox" data-gall="gallery05" href="/assets/img/gallery/Laos2023/travel_laos_2023_ - 2.mov" data-autoplay="true" data-vbtype="video" data-ratio="1x1">
@@ -266,6 +277,7 @@ toc:
 ---
 
 ## 🇻🇳 Vietnam 2023
+
 <div class="pswp-gallery">
         <a class="venobox" data-gall="gallery04" href="/assets/img/gallery/Vietnam2023/travel_vietnam_2023_ - 1.jpeg"><img src="/assets/img/gallery/Vietnam2023/travel_vietnam_2023_ - 1.jpeg" alt="Vietnam 2023 Image 1"></a>
         <a class="venobox" data-gall="gallery04" href="/assets/img/gallery/Vietnam2023/travel_vietnam_2023_ - 2.jpeg"><img src="/assets/img/gallery/Vietnam2023/travel_vietnam_2023_ - 2.jpeg" alt="Vietnam 2023 Image 2"></a>
@@ -279,6 +291,7 @@ toc:
 ---
 
 ## 🇵🇭 Philippines 2023
+
 <div class="pswp-gallery" id="gallery--philippines-2023">
    <a class="venobox" data-gall="gallery02" href="/assets/img/gallery/Philipines2023/travel_philipines_2023_ - 1.jpeg"><img src="/assets/img/gallery/Philipines2023/travel_philipines_2023_ - 1.jpeg" alt="Philippines 2023 Image 1"></a>
         <a class="venobox" data-gall="gallery02" href="/assets/img/gallery/Philipines2023/travel_philipines_2023_ - 3.jpeg"><img src="/assets/img/gallery/Philipines2023/travel_philipines_2023_ - 3.jpeg" alt="Philippines 2023 Image 3"></a>

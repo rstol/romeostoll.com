@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: https://rstol.github.io/md-cv/
-description: 
+description:
 toc:
   sidebar: left
 ---

@@ -1,5 +1,5 @@
 document.addEventListener("readystatechange", () => {
   if (document.readyState === "complete") {
-    new VenoBox({fitView: true});
+    new VenoBox({ fitView: true });
   }
 });

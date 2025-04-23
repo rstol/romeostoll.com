@@ -38,9 +38,7 @@
       "startDate": "2024-04",
       "endDate": "2024-10",
       "summary": "Part-time (10-20%) role enhancing battery data analytics platform.",
-      "highlights": [
-        "Scaled system to handle increased data volume and complexity"
-      ]
+      "highlights": ["Scaled system to handle increased data volume and complexity"]
     },
     {
       "name": "Textshuttle AG",
@@ -112,9 +110,7 @@
       "startDate": "2019-09",
       "endDate": "2023-08",
       "gpa": "Grade: 6",
-      "courses": [
-        "Thesis: 'Boosting flexibility in coding exercises by building containers in real time' – CodeExpert Group"
-      ]
+      "courses": ["Thesis: 'Boosting flexibility in coding exercises by building containers in real time' – CodeExpert Group"]
     },
     {
       "institution": "Kantonsschule Schaffhausen",
@@ -122,9 +118,7 @@
       "studyType": "Matura Diploma",
       "startDate": "2014",
       "endDate": "2018",
-      "courses": [
-        "Maturaarbeit: 'Werden die Reichen immer reicher?'"
-      ]
+      "courses": ["Maturaarbeit: 'Werden die Reichen immer reicher?'"]
     }
   ],
   "projects": [
@@ -133,20 +127,14 @@
       "startDate": "2021-09",
       "endDate": "2022-04",
       "summary": "IBM Academy Initiative on emerging computing technologies.",
-      "highlights": [
-        "Covered Quantum, Neuromorphic, and In-Memory computing",
-        "Presented analysis to IBM, ETH, and published as internal blog post"
-      ]
+      "highlights": ["Covered Quantum, Neuromorphic, and In-Memory computing", "Presented analysis to IBM, ETH, and published as internal blog post"]
     },
     {
       "name": "flavourized.",
       "startDate": "2016",
       "endDate": "2017",
       "summary": "Founded reusable water bottle company through YES program.",
-      "highlights": [
-        "Managed full business lifecycle",
-        "Secured funding and launched DTC sales channels"
-      ]
+      "highlights": ["Managed full business lifecycle", "Secured funding and launched DTC sales channels"]
     }
   ],
   "skills": [
@@ -168,15 +156,7 @@
     },
     {
       "name": "Specialized Domains",
-      "keywords": [
-        "Pandas",
-        "Dash",
-        "Machine Learning",
-        "NLP",
-        "UI/UX",
-        "Embedded Systems",
-        "RTOS"
-      ]
+      "keywords": ["Pandas", "Dash", "Machine Learning", "NLP", "UI/UX", "Embedded Systems", "RTOS"]
     },
     {
       "name": "E-commerce",

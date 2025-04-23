@@ -1418,7 +1418,6 @@ figure.cover {
   }
 }
 
-
 .pswp-gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -1432,16 +1431,18 @@ figure.cover {
     display: block;
     border-radius: 6px;
     overflow: hidden;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-    
+    transition:
+      transform 0.2s ease,
+      box-shadow 0.2s ease;
+
     @for $i from 1 through 30 {
-        &:nth-child(#{$i}) {
-          $random-size-row: random(2);
-          $random-size-col: random(2);
-          grid-row: span $random-size-row;
-          grid-column: span $random-size-col;
-        }
+      &:nth-child(#{$i}) {
+        $random-size-row: random(2);
+        $random-size-col: random(2);
+        grid-row: span $random-size-row;
+        grid-column: span $random-size-col;
       }
+    }
     video {
       width: 100%;
     }
@@ -1464,7 +1465,7 @@ figure.cover {
   }
 
   // Optional: If you're wrapping anchors with divs
-  >div {
+  > div {
     a {
       display: block;
     }
