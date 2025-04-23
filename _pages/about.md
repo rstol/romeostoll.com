@@ -30,15 +30,15 @@ projects:
 ---
 
 ## Me in 10 seconds 
-I’ve been a DJ, entrepreneur, and football player.
+I’ve been a DJ, entrepreneur, and [backpacker](/gallery).
 
-I’m an ETH MTEC student, programmer, and explorer.
+I’m an [ETH MTEC student](/cv), [coder](/github), and explorer of different point of views.
 
 Swiss native, I live in Zürich. 
 
 ## What am I doing now?
 
-studying, finishing old projects, and learning new hobbies…
+studying at ETH Zürich, finishing projects, and learning new hobbies…
 
 Sometimes, I'm in exploration mode, listening, reading, trying new experiences, and taking in new information.
 
