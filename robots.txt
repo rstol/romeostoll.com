@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://romeostoll.com/sitemap.xml
