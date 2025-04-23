@@ -44,8 +44,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/gallery/";
           },
-        },{id: "nav-book-summaries-and-reviews",
-          title: "Book Summaries and Reviews",
+        },{id: "nav-book-summaries",
+          title: "Book Summaries",
           description: "",
           section: "Navigation",
           handler: () => {
