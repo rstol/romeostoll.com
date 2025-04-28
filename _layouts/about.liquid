@@ -57,14 +57,12 @@ layout: default
     {% endif %}
 
     <!-- Selected projects -->
-    {% comment %}
-      {% if page.projects %}
-        <h2>
-          <a href="{{ '/projects/' | relative_url }}" style="color: inherit">Projects</a>
-        </h2>
-        {% include page.liquid %}
-      {% endif %}
-    {% endcomment %}
+    {% if page.projects %}
+      <h2>
+        <a href="{{ '/projects/' | relative_url }}" style="color: inherit">Projects</a>
+      </h2>
+      {% include page.liquid %}
+    {% endif %}
 
     <!-- Social -->
     {% if page.social %}

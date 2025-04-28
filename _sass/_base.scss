@@ -1441,6 +1441,10 @@ figure.cover {
         $random-size-col: random(2);
         grid-row: span $random-size-row;
         grid-column: span $random-size-col;
+        @media (max-width: 575px) {
+          grid-row: span 1;
+          grid-column: span 1;
+        }
       }
     }
     video {
