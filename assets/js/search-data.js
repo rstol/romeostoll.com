@@ -56,6 +56,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/briefe_an_einen_jungen_dichter/";
+            },},{id: "projects-weingut-stoll-website",
+          title: 'Weingut-Stoll Website',
+          description: "Weingut Stoll Website Redesign for a Family Winery",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/weingut-stoll/";
+            },},{id: "projects-steuerladen-website",
+          title: 'Steuerladen Website',
+          description: "Steuerladen GmbH Web Application",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/steuerladen/";
             },},{
         id: 'social-email',
         title: 'email',
