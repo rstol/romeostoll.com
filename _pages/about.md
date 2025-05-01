@@ -31,23 +31,16 @@ projects:
 
 ## Me in 10 seconds
 
-I’ve been a DJ, entrepreneur, and [backpacker](/gallery).
+I’ve been a [DJ](https://soundcloud.com/romeo-stoll), [entrepreneur](https://www.shn.ch/region/regionale-wirtschaft/2016-10-01/kantonsschueler-werden-unternehmer), and [backpacker](/gallery).
 
-I’m an ETH MTEC student, [coder](/repositories), and explorer of different point of views.
+I’m an [ETH MTEC student](/cv), [coder](/repositories), and explorer of different point of views.
 
 Swiss native, I live in Zürich.
 
 ## What am I doing now?
 
-studying at ETH Zürich, finishing projects, and learning new hobbies…
+studying at ETH Zürich, finishing projects, and learning new hobbie like sailing and judo!
 
 Sometimes, I'm in exploration mode, listening, reading, trying new experiences, and taking in new information.
 
-Sometimes, I put my head down, focusing, working, and finishing what I started.
-
-While I temporally separate the two modes, I must switch from one day to the next or finish a side project at night.
-
-Right now, I'm finishing what I've started in my short breaks between absorbing new information from my studies. \
-Lots of classes and challenging group projects.
-
-I'm having fun learning sailing and judo.
+Sometimes, I put my head down, focusing, working, allowing imperfection to finish what I started.
