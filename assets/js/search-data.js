@@ -66,6 +66,11 @@ ninja.data = [{
           description: "Steuerladen GmbH Web Application",
           section: "Projects",handler: () => {
               window.location.href = "/projects/steuerladen/";
+            },},{id: "projects-deepplaybook",
+          title: 'DeepPlaybook',
+          description: "Deep Learning-Based Basketball Playbook Analysis for Coaches",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/deep-playbook/";
             },},{
         id: 'social-email',
         title: 'email',
