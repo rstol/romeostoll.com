@@ -60,8 +60,8 @@ blockquote {
   background: var(--global-bg-color);
   border-left: 5px solid var(--global-theme-color);
   margin: 1.5em 0;
-  padding: 1em;
-  font-size: 1.2rem;
+  padding: 0.75em;
+  font-size: 1.1rem;
 
   p {
     margin-bottom: 0;
@@ -229,7 +229,7 @@ ul.task-list input[type="checkbox"] {
 
 .post-description {
   margin-bottom: 2rem;
-  font-size: 0.875rem;
+  font-size: 1rem;
 
   a {
     color: inherit;
@@ -1063,14 +1063,17 @@ progress::-moz-progress-bar {
 /* Table of Contents */
 nav[data-toggle="toc"] {
   top: 5rem;
+  padding: 0 0.5rem;
 
   .nav .nav > li > a {
-    font-size: 0.75rem;
+    font-size: 0.875rem;
+    white-space: nowrap;
   }
 
   .nav > li > a {
     color: var(--global-text-color);
-    font-size: 0.75rem;
+    font-size: 0.875rem;
+    white-space: nowrap;
 
     &:hover {
       color: var(--global-hover-color);
@@ -1081,7 +1084,7 @@ nav[data-toggle="toc"] {
   .nav-link.active {
     color: var(--global-theme-color);
     border-left-color: var(--global-theme-color);
-    font-size: 0.75rem;
+    font-size: 0.875rem;
 
     &:hover {
       color: var(--global-hover-color);
@@ -1092,13 +1095,30 @@ nav[data-toggle="toc"] {
 
 /* small screens */
 @media (max-width: 576px) {
-  /* override stickyness so that the navigation does not follow scrolling */
   nav[data-toggle="toc"] {
-    visibility: hidden;
-    height: 0;
-    top: 0;
+    .nav > li > a {
+      padding: 8px 12px 8px 4px;
+    }
+
+    .navbar-nav {
+      flex-direction: row;
+      flex-wrap: nowrap;
+      overflow-x: auto;
+    }
+
+    .nav-link.active {
+      text-transform: underline;
+      border-left: none;
+    }
   }
 }
+
+/* override stickyness so that the navigation does not follow scrolling */
+// nav[data-toggle="toc"] {
+//   visibility: hidden;
+//   height: 0;
+//   top: 0;
+// }
 
 .featured-posts {
   a {

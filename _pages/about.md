@@ -31,7 +31,7 @@ projects:
 
 ## Me in 10 seconds
 
-I’ve been a [DJ](https://soundcloud.com/romeo-stoll), [entrepreneur](https://www.shn.ch/region/regionale-wirtschaft/2016-10-01/kantonsschueler-werden-unternehmer), and [backpacker](/gallery).
+I’ve been an [entrepreneur](https://www.shn.ch/region/regionale-wirtschaft/2016-10-01/kantonsschueler-werden-unternehmer), [DJ ThPlug](https://soundcloud.com/romeo-stoll), , and [backpacker](/gallery).
 
 I’m an [ETH MTEC student](/cv), [coder](/repositories), and explorer of different point of views.
 
@@ -39,7 +39,7 @@ Swiss native, I live in Zürich.
 
 ## What am I doing now?
 
-studying at ETH Zürich, finishing projects, and learning new hobbie like sailing and judo!
+studying at ETH Zürich, finishing projects, learning sailing and started DJing again with different style of music!
 
 Sometimes, I'm in exploration mode, listening, reading, trying new experiences, and taking in new information.
 
